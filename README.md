@@ -23,7 +23,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](lab2_schema.png) 
 
- (https://drive.google.com/file/d/1AU3s81NsuLhYsNzzd0GduzunG2hNiS8p/view?usp=drive_link)
+ https://drive.google.com/file/d/1AU3s81NsuLhYsNzzd0GduzunG2hNiS8p/view?usp=drive_link
 
 
 ## 2. Реализация программы
